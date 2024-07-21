@@ -33,9 +33,10 @@ https://github.com/user-attachments/assets/cb6e89de-7648-4d0a-b5a9-7b185b7b0e21
 
 
 
-
-
-
 https://github.com/user-attachments/assets/123e9615-5704-4b7c-861c-a50662d72b7c
 
+# copy paste disabled(both from form & external source)
+
+
+https://github.com/user-attachments/assets/2fe80463-d1c6-4e11-8c8e-10396c0d55e2
 
