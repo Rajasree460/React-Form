@@ -40,6 +40,7 @@ const Form = () => {
                 setImageError('Please upload an image with size 150 KB or less.');
                 setImage('');
                 setImagePreview('');
+                setFileInputKey(Date.now()); // Reset the input field
             } else if (file.type === 'image/png') {
                 setImage(file.name);
                 setImageError('');
@@ -48,6 +49,7 @@ const Form = () => {
                 setImageError('Please upload a .png file');
                 setImage('');
                 setImagePreview('');
+                setFileInputKey(Date.now()); // Reset the input field
             }
         } else {
             setImageError('Field is required');
